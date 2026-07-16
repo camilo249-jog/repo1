@@ -1,4 +1,10 @@
 camilo valencia     
 I.D 000600214    
-programa de ingeneria aeronautica     
+programa de ingeneria aeronautica       
 UPB  
+
+hola  
+dias   
+tardes  
+noches    
+azul    
